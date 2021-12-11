@@ -1,1 +1,0 @@
-from cmd you type get_chunk 4000 if you want to receive as sample the first 4000 rows from log26 data.
