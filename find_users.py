@@ -33,3 +33,5 @@ extention_list = data['extention'] # now fixed
 dotted_extentions_iterator = filter(check_dots, extention_list)
 dotted_extentions = list(dotted_extentions_iterator)
 print('Number of incomplete extentions in 500 chunk: '+str(len(dotted_extentions)))
+data.to_csv('sample_500_with_fixed_extention.csv')
+print('File with fixed extention created')
