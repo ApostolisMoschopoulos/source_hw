@@ -1,0 +1,1 @@
+This code is for the first assignement in Big Data course. A pdf with the details of the exercise is also uploaded. 
